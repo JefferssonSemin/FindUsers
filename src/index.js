@@ -6,6 +6,7 @@ import './config/ReactotronConfig';
 
 export default function App() {
   console.tron.log('hello');
+  
   return (
     <>
       <StatusBar barStyle="light-content" backgroundColor="#7159c1" />
